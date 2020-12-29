@@ -1,0 +1,13 @@
+img{
+    padding-right: 10px;
+}
+.TodoItem{
+    padding: 10px;
+    font-size: 23px;
+    background-color:gainsboro ;
+    display: flex;
+}
+.TodoItem-Complete{
+    text-decoration: line-through;
+    opacity: .5;
+}
